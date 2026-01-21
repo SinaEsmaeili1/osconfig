@@ -1,0 +1,3 @@
+[General]
+Certificate=/home/rose/.local/share/krdpserver/krdp.crt
+CertificateKey=/home/rose/.local/share/krdpserver/krdp.key
